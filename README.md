@@ -77,4 +77,4 @@ Thank you for using my Data Analysis App!
 
 
 
-http://3.82.155.40:8501/
+
