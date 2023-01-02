@@ -45,6 +45,8 @@ Please note that this app is still in development and may have bugs or issues. I
    ```
 Thank you for using my Data Analysis App!
 
+[The App Link](https://ag994-tweets-analysis-app-app-7qap5z.streamlit.app/)
+
 
 
 
