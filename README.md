@@ -4,7 +4,7 @@ This app is designed to allow users to input and analyze data sets. It is curren
 
 To use the app, simply follow the prompts on the homepage to upload your data set. The app will then provide various analysis options, including visualizations and statistical analysis.
 
-![]()
+![](Data Analysis App - Google Chrome 2023-01-03 08-48-05.gif)
 
 ## Getting Started
    To use this app, follow these steps:
