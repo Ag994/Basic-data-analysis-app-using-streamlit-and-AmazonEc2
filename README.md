@@ -4,7 +4,7 @@ This app is designed to allow users to input and analyze data sets. It is curren
 
 To use the app, simply follow the prompts on the homepage to upload your data set. The app will then provide various analysis options, including visualizations and statistical analysis.
 
-Please note that this app is still in development and may have bugs or issues. If you encounter any problems, please feel free to open an issue on the GitHub repository for this project.
+![]()
 
 ## Getting Started
    To use this app, follow these steps:
