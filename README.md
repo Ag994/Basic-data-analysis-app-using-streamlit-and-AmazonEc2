@@ -5,6 +5,7 @@ This app is designed to allow users to input and analyze data sets. It is curren
 To use the app, simply follow the prompts on the homepage to upload your data set. The app will then provide various analysis options, including visualizations and statistical analysis.
 
 ![](https://github.com/Ag994/Basic-data-analysis-app-using-streamlit-and-AmazonEc2/blob/main/Data%20Analysis%20App%20-%20Google%20Chrome%202023-01-03%2009-08-13.gif)
+[App Link](http://3.82.155.40:8501/)
 
 ## Getting Started
    To use this app, follow these steps:
@@ -45,7 +46,6 @@ To use the app, simply follow the prompts on the homepage to upload your data se
    ```
 Thank you for using my Data Analysis App!
 
-[App Link](http://3.82.155.40:8501/)
 
 
 
